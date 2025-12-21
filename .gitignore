@@ -1,0 +1,6 @@
+﻿node_modules/
+.expo/
+.env
+.env.local
+dist/
+coverage/
